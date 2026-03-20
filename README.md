@@ -1,13 +1,25 @@
-Smart File Organizer
+# Smart File Organizer
 
-A Python script that automatically organizes files into folders based on file type.
+## Description
+A Python script that automatically organizes files into folders based on file type (Images, Documents, Videos, Others).
 
-Features
-- Organizes images, documents, videos, and others
-- Automatically creates folders
-- Easy to use
+## Features
+- Automatically categorizes files
+- Creates folders if they don’t exist
+- Supports multiple file types
+- Helps keep directories clean
 
- How to Run
+## How to Run
+1. Update the folder path in the code
+2. Run
 
-```bash
-python main.py
+
+## Technologies Used
+- Python
+- os module
+- shutil module
+
+## Future Improvements
+- Add GUI
+- Support more file formats
+- Schedule automatic execution
